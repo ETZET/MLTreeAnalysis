@@ -6,9 +6,8 @@ This project reviews major concepts in tree ensemble learning methods, including
 ## Instruction
 
 ```bash
-# Example installation steps
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone [https://github.com/ETZET/MLTreeAnalysis.git](https://github.com/ETZET/MLTreeAnalysis.git)
+cd MLTreeAnalysis
 pip install -r requirements.txt
 ```
 
